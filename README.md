@@ -44,7 +44,7 @@ Proyecto de API RESTful para el proceso de selección de "Grupos de trabajo" de 
 - Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
     - Clonar el repositorio
         ~~~bash
-        git clone https://github.com/DavidMarin81/GrupoTrabajoAUJ_BackEnd.git
+        git clone https://github.com/DavidMarin81/DavidMarin81-GrupoTrabajoAUJ_BackEnd
         cd GrupoTrabajoAUJ_BackEnd
         ~~~
 
