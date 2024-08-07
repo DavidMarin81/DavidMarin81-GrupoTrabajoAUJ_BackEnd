@@ -82,11 +82,9 @@ Proyecto de API RESTful para el proceso de selección de "Grupos de trabajo" de 
             DELETE/motivations/{id}
             ~~~
         - Ejemplo para introducir datos:
-        ![image](https://github.com/user-attachments/assets/901a9bb9-837f-4eb6-a9b4-1beda464a859)
-
+        ![image](https://github.com/user-attachments/assets/50d48e48-c3ba-47c4-bf4a-22edb3c70e9c)
         - Ejemplo para obtener todas las motivaciones:
-        ![image](https://github.com/user-attachments/assets/a565a6df-1bf5-4e55-8c14-7aebf8594c5a)
-
+        ![image](https://github.com/user-attachments/assets/dee31b8a-95d7-4c98-9c49-324691457ead)
     - Uso de la base de datos H2
         - Accede a la consola de H2 para inspeccionar la base de datos en 
             ~~~bash
