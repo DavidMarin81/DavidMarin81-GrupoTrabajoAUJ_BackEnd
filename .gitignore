@@ -1,0 +1,53 @@
+# Archivos generados por el build
+target/
+build/
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Archivos específicos del IDE
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Archivos específicos de Maven y Gradle ###
+.mvn/wrapper/maven-wrapper.jar
+.gradle/
+build/
+
+### STS (Spring Tool Suite) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# Archivos de entorno
+.env
+
+# Archivos de caché y logs
+*.log
+*.swp
+
+# Archivos de base de datos H2
+*.h2.db
+
+# Archivos locales opcionales
+*.local
