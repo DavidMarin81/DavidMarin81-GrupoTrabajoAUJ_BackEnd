@@ -58,8 +58,11 @@ Proyecto de API RESTful para el proceso de selección de "Grupos de trabajo" de 
         ~~~bash
         mvn spring-boot:run
         ~~~
-
-    - Prueba la API
+    - Prueba la app desde un navegador web:
+        ~~~bash
+        [mvn spring-boot:run](http://localhost:8080/)
+        ~~~
+    - Prueba la API sin un navegador web:
         - Puedes utilizar herramientas como **POSTMAN** para probar los endpoints de la API:
             ~~~bash
             # Obtener todas las motivaciones
