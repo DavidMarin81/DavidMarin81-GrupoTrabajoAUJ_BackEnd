@@ -14,11 +14,20 @@ public class Motivation {
 
     private String motivation;
 
+    // Divad -> se añade "author"
+    private String author;
+
     public Motivation() {
     }
 
     public Motivation(String motivation) {
         this.motivation = motivation;
+    }
+
+    // Divad -> se añade un constructor con "motivation" y "author"
+    public Motivation(String motivation, String author) {
+        this.motivation = motivation;
+        this.author = author;
     }
 
     public Long getId() {
@@ -37,4 +46,12 @@ public class Motivation {
         this.motivation = motivation;
     }
 
+    // Divad -> se añaden getter y setter
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
 }
