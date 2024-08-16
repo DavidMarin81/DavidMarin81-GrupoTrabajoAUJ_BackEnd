@@ -69,23 +69,23 @@ Proyecto de API RESTful para el proceso de selección de "Grupos de trabajo" de 
           - Puedes utilizar herramientas como **POSTMAN** para probar los endpoints de la API:
               ~~~bash
               # Obtener todas las motivaciones
-              GET/motivations
+              GET /motivations
               ~~~
               ~~~bash
               # Crear una nueva motivación
-              POST/motivations
+              POST /motivations
               ~~~
               ~~~bash
               # Obtener una motivación por ID
-              GET/motivations/{id}
+              GET /motivations/{id}
               ~~~
               ~~~bash
               # Actualizar una motivación existente
-              PUT/motivations/{id}
+              PUT /motivations/{id}
               ~~~
               ~~~bash
               # Eliminar una motivación
-              DELETE/motivations/{id}
+              DELETE /motivations/{id}
               ~~~
           - Ejemplo para introducir datos:
           ![image](https://github.com/user-attachments/assets/50d48e48-c3ba-47c4-bf4a-22edb3c70e9c)
@@ -151,7 +151,7 @@ Proyecto de API RESTful para el proceso de selección de "Grupos de trabajo" de 
 </details>
             
 ## Contacto
-- **Nombre:** [David Marín](https://www.linkedin.com/in/tu-perfil)
+- **Nombre:** David Marín Gómez
 - **Correo Electrónico:** [davidmaringomez81@gmail.com](mailto:davidmaringomez81@gmail.com)
 - **LinkedIn:** [David Marín](https://www.linkedin.com/in/davidmaringomez/)
 - **GitHub:** [GitHub Usuario](https://github.com/DavidMarin81)
