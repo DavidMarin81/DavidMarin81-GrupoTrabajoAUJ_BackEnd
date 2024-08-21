@@ -149,6 +149,16 @@ Proyecto de API RESTful para el proceso de selección de "Grupos de trabajo" de 
         <p>Esta colaboración no solo mejoró la funcionalidad de la aplicación, sino que también demostró la efectividad de trabajar en equipo, gestionando correctamente las contribuciones y asegurando la calidad del código.</p>
     </ul>
 </details>
+
+## Selección para AdoptaUnJunior
+<details>
+  <summary>¿Por qué deberia ser seleccionado?</summary>
+    <ul>
+        <li>En enero de este año, finalicé el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), lo que me ha proporcionado una base sólida en programación y desarrollo de software. Desde que terminé mis estudios, he estado aprendiendo y perfeccionando mis habilidades, especialmente en el ámbito de Backend. Aunque no tengo experiencia profesional en este sector, estoy comprometido con el aprendizaje y tengo una gran pasión por la tecnología.</li>
+        <li>Esta oportunidad de formar parte de los grupos de trabajo de Backend de <a href="https://adoptaunjunior.es/" target="_blank">Adopta un Junior</a>, representa para mí un paso crucial en mi desarrollo profesional. Estoy motivado por la posibilidad de aplicar mis conocimientos en un entorno real, colaborar con un equipo de profesionales y enfrentarme a los desafíos del día a día de un programador.</li>
+        <li>Creo que puedo aportar una perspectiva fresca y un fuerte deseo de mejorar continuamente, lo cual es vital en un campo que está en constante evolución. Además, mi disposición para aprender y adaptarme, junto con mis habilidades técnicas, me convierten en un candidato ideal para integrarme y contribuir positivamente al equipo.</li>
+    </ul>
+</details>
             
 ## Contacto
 - **Nombre:** David Marín Gómez
